@@ -3,7 +3,6 @@
 while true; do
 
 	read line
-	#echo $line > pipe5
 
 	if [[ ($line == [[:digit:]]*) || ($line == "+") ]]
 	then	echo $line > pipe5
