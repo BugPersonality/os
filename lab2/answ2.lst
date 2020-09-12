@@ -1,0 +1,11 @@
+PID = 823 command = /sbin/auditd
+PID = 854 command = /usr/sbin/sssd
+PID = 855 command = /usr/sbin/smartd
+PID = 856 command = /usr/sbin/ModemManager
+PID = 861 command = /usr/sbin/mcelog
+PID = 865 command = /usr/sbin/gssproxy
+PID = 874 command = /sbin/rngd
+PID = 908 command = /usr/sbin/NetworkManager
+PID = 917 command = /usr/sbin/sshd
+PID = 1141 command = /usr/sbin/atd
+PID = 1142 command = /usr/sbin/crond
