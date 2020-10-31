@@ -1,3 +1,3 @@
-#!bin/bash/
+#!/bin/bash
 
-echo "*1/ * * * 4 task1.sh" | crontab
+echo "*/5 * * * 5 home/user/lab3/task1.sh" | crontab
